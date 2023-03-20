@@ -1,0 +1,31 @@
+#label_name {
+  width: 10%;
+}
+
+#name {
+  width: 90%;
+}
+
+#label_email {
+  width: 10%;
+}
+
+#email {
+  width: 90%;
+}
+
+#label_form-message {
+  width: 10%;
+}
+
+#form-message {
+  width: 90%;
+}
+
+.submit-button {
+  margin-top: 40px;
+}
+
+.extend {
+  margin-top: 15px;
+}
